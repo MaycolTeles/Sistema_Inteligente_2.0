@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1575981997 source:c:\users\maycol\desktop\programação\poo\sistema inteligente para automação 2.0\main.cpp
+	<iostream>
+	<fstream>
+	"Interacao.h"
+
+1575981852 c:\users\maycol\desktop\programação\poo\sistema inteligente para automação 2.0\interacao.h
+	"Interface.h"
+
+1575981751 c:\users\maycol\desktop\programação\poo\sistema inteligente para automação 2.0\interface.h
+
+1575982812 source:c:\users\maycol\desktop\programação\poo\sistema inteligente para automação 2.0\interacao.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Interacao.h"
+
+1575987943 source:c:\users\maycol\desktop\programação\poo\sistema inteligente para automação 2.0\componente.cpp
+	<iostream>
+	"Componente.h"
+
+1575987823 c:\users\maycol\desktop\programação\poo\sistema inteligente para automação 2.0\componente.h
+
